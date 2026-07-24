@@ -1,0 +1,15 @@
+/home/foxie/c#-projects/CSharp-Database/bin/Debug/net8.0/CSharp-Database
+/home/foxie/c#-projects/CSharp-Database/bin/Debug/net8.0/CSharp-Database.deps.json
+/home/foxie/c#-projects/CSharp-Database/bin/Debug/net8.0/CSharp-Database.runtimeconfig.json
+/home/foxie/c#-projects/CSharp-Database/bin/Debug/net8.0/CSharp-Database.dll
+/home/foxie/c#-projects/CSharp-Database/bin/Debug/net8.0/CSharp-Database.pdb
+/home/foxie/c#-projects/CSharp-Database/obj/Debug/net8.0/CSharp-Database.GeneratedMSBuildEditorConfig.editorconfig
+/home/foxie/c#-projects/CSharp-Database/obj/Debug/net8.0/CSharp-Database.AssemblyInfoInputs.cache
+/home/foxie/c#-projects/CSharp-Database/obj/Debug/net8.0/CSharp-Database.AssemblyInfo.cs
+/home/foxie/c#-projects/CSharp-Database/obj/Debug/net8.0/CSharp-Database.csproj.CoreCompileInputs.cache
+/home/foxie/c#-projects/CSharp-Database/obj/Debug/net8.0/CSharp-Database.sourcelink.json
+/home/foxie/c#-projects/CSharp-Database/obj/Debug/net8.0/CSharp-Database.dll
+/home/foxie/c#-projects/CSharp-Database/obj/Debug/net8.0/refint/CSharp-Database.dll
+/home/foxie/c#-projects/CSharp-Database/obj/Debug/net8.0/CSharp-Database.pdb
+/home/foxie/c#-projects/CSharp-Database/obj/Debug/net8.0/CSharp-Database.genruntimeconfig.cache
+/home/foxie/c#-projects/CSharp-Database/obj/Debug/net8.0/ref/CSharp-Database.dll
